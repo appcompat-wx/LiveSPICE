@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAA0u/TUQ+0=",
+  "success": true,
+  "projectFilePath": "C:\\AppBuild\\LiveSPICE\\ComputerAlgebra\\ComputerAlgebra\\ComputerAlgebra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\bin\Release\netstandard2.0\ComputerAlgebra.deps.json
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\bin\Release\netstandard2.0\ComputerAlgebra.dll
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\bin\Release\netstandard2.0\ComputerAlgebra.pdb
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.csproj.AssemblyReference.cache
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.AssemblyInfoInputs.cache
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.AssemblyInfo.cs
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.csproj.CoreCompileInputs.cache
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.dll
+C:\AppBuild\LiveSPICE\ComputerAlgebra\ComputerAlgebra\obj\Release\netstandard2.0\ComputerAlgebra.pdb
